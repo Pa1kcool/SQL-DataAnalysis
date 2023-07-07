@@ -10,6 +10,42 @@ This dataset is available on [Kaggle](https://www.kaggle.com/datasets/tsiaras/uk
 
 The dataset used in this project (Accident_Information.csv) represents unique traffic accidents across the UK, with various properties related to each accident as columns, such as geographical locations, weather conditions, type of vehicles, number of casualties, and vehicle manoeuvres.
 
+The primary dataset used in this project, `Accident_Information.csv`, represents unique traffic accidents across the UK. Each row in the file is a unique traffic accident, identified by the `Accident_Index` column, and various properties related to the accident are represented as columns. The dataset includes 34 columns that provide details about the accident including:
+
+- Accident_Index
+- 1st_Road_Class
+- 1st_Road_Number
+- 2nd_Road_Class
+- 2nd_Road_Number
+- Accident_Severity
+- Carriageway_Hazards
+- Date
+- Day_of_Week
+- Did_Police_Officer_Attend_Scene_of_Accident
+- Junction_Control
+- Junction_Detail
+- Latitude
+- Light_Conditions
+- Local_Authority_(District)
+- Local_Authority_(Highway)
+- Location_Easting_OSGR
+- Location_Northing_OSGR
+- Longitude
+- LSOA_of_Accident_Location
+- Number_of_Casualties
+- Number_of_Vehicles
+- Pedestrian_Crossing-Human_Control
+- Pedestrian_Crossing-Physical_Facilities
+- Police_Force
+- Road_Surface_Conditions
+- Road_Type
+- Special_Conditions_at_Site
+- Speed_limit
+- Time
+- Urban_or_Rural_Area
+- Weather_Conditions
+- Year
+- InScotland (YES/NO)
 
 ## Exploratory Data Analysis
 
