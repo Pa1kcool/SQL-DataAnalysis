@@ -47,6 +47,38 @@ The primary dataset used in this project, `Accident_Information.csv`, represents
 - Year
 - InScotland (YES/NO)
 
+## Vehicleinfo.csv (24 Columns)
+
+The dataset contains the following columns:
+
+- **Accident_Index**
+- **Age_Band_of_Driver**
+- **Age_of_Vehicle**
+- **Driver_Home_Area_Type**
+- **Driver_IMD_Decile**
+- **Engine_Capacity_.CC.**
+- **Hit_Object_in_Carriageway**
+- **Hit_Object_off_Carriageway**
+- **Journey_Purpose_of_Driver**
+- **Junction_Location**
+- **Make**
+- **Model**
+- **Propulsion_Code**
+- **Sex_of_Driver**
+- **Skidding_and_Overturning**
+- **Towing_and_Articulation**
+- **Vehicle_Leaving_Carriageway**
+- **Vehicle_Location.Restricted_Lane**
+- **Vehicle_Manoeuvre**
+- **Vehicle_Reference**
+- **Vehicle_Type**
+- **Was_Vehicle_Left_Hand_Drive**
+- **X1st_Point_of_Impact**
+- **Year**
+
+The two above-mentioned files/datasets can be linked through the unique traffic accident identifier (Accident_Index column).
+
+
 ## Exploratory Data Analysis
 
 Conducted a thorough exploratory data analysis on the data. The SQL queries used in this analysis range from basic `SELECT` statements to more complex queries involving `JOINs`, aggregations, subqueries, and window functions.
