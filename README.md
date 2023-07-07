@@ -76,7 +76,7 @@ Here are some of the questions that I have addressed in my analysis:
 19. What percentage of accidents were caused by left-hand drive vehicles each year?
 
 
-MY FINDINGS:
+## MY FINDINGS:
 1. The majority of accidents are of **low severity (slight)**, indicating that most accidents thankfully do not result in severe injuries or fatalities.
 
 Slight: 895,883
@@ -89,34 +89,34 @@ Serious: 138,192
 
 4. Most accidents occur during **rush hour periods**, indicating the risks associated with high traffic volumes and potentially distracted or hurried driving.
 
-5. While there may be more accidents in urban areas due to higher traffic volumes, the severity of accidents in rural areas may be higher, indicating the need for different preventive strategies in different regions.
+5. While there may be more accidents in urban areas due to higher traffic volumes, the **severity of accidents** in rural areas may be higher, indicating the need for different preventive strategies in different regions.
 
-6. Fatal accidents make up a small proportion of total accidents (about 2-5%). This underscores the effectiveness of safety regulations and systems in vehicles.
+6. **Fatal accidents** make up a small proportion of total accidents (about **2-5%**). This underscores the effectiveness of safety regulations and systems in vehicles.
 
-7. Metropolitan areas tend to have a higher number of severe accidents, likely due to higher traffic volumes and population density.
+7. **Metropolitan areas** tend to have a higher number of severe accidents, likely due to higher traffic volumes and population density.
 
-8. Most accidents occur in clear weather conditions, indicating that factors other than weather, such as driver behavior and road conditions, are often more critical in accident occurrence.
+8. Most accidents occur in **clear weather conditions**, indicating that factors other than weather, such as driver behavior and road conditions, are often more critical in accident occurrence.
 
-9. The average speed limit at accident locations is around 30-50 mph. This suggests that accidents often occur even at lower speed limits, where drivers might feel more comfortable but can still encounter risks.
+9. The **average speed limit** at accident locations is around **30-50 mph**. This suggests that accidents often occur even at lower speed limits, where drivers might feel more comfortable but can still encounter risks.
 
-10. Police forces in metropolitan areas like London may deal with a higher number of accidents due to the larger population and traffic volume in these areas.
+10. **Police forces** in metropolitan areas like London may deal with a higher number of accidents due to the larger population and traffic volume in these areas.
 
-11. Most accidents occur in areas without any specific carriageway hazards reported, suggesting that driver behavior or vehicle conditions might be more influential in accident occurrence.
+11. Most accidents occur in areas without any specific **carriageway hazards** reported, suggesting that driver behavior or vehicle conditions might be more influential in accident occurrence.
 
-12. The districts with the highest number of casualties are likely those with larger populations and more traffic, necessitating targeted interventions in these areas.
+12. The **districts with the highest number of casualties** are likely those with larger populations and more traffic, necessitating targeted interventions in these areas.
 
-13. A smaller proportion of accidents occur in Scotland compared to England, reflecting the smaller population and potentially different driving conditions.
+13. A **smaller proportion** of accidents occur in Scotland compared to England, reflecting the smaller population and potentially different driving conditions.
 
-14. Most accidents involve 2 vehicles, indicating that interactions between vehicles are a key factor in accident occurrence.
+14. Most accidents involve 2 vehicles.
 
-15. The make of vehicles most involved in severe accidents would likely be those that are most popular or common on the roads.
+15. The **make of vehicles** most involved in severe accidents would likely be those that are most popular or common on the roads.
 
-16. The average age of vehicles involved in accidents might be around 5-10 years, reflecting the composition of the vehicle fleet on the roads.
+16. The **average age of vehicles** involved in accidents is be around **6-10 years**, reflecting the composition of the vehicle fleet on the roads.
 
-17. Younger and older drivers may be involved in more severe accidents, suggesting that different age groups might require targeted driver education or support.
+17. **Drivers (20-37 old)** are involved in more severe accidents, suggesting that different age groups might require targeted driver education or support.
 
-18. Urban areas might have more severe accidents due to the higher number of vehicles and potential for multi-vehicle accidents.
+18. **Urban areas** might have more severe accidents due to the higher number of vehicles and potential for multi-vehicle accidents.
 
-19. Left-hand drive vehicles might represent a small percentage of accidents, reflecting their rarity on UK roads.
+19. **Left-hand drive** vehicles might represent a small percentage of accidents, reflecting their rarity on UK roads.
 
-20. The average age of vehicles involved in accidents might increase slightly over the years, suggesting the potential role of vehicle aging in accident risk.
+20. **The average age of vehicles** involved in accidents might increase slightly over the years, suggesting the potential role of vehicle aging in accident risk.
