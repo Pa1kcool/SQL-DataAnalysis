@@ -2,11 +2,14 @@
 
 This project involves an in-depth analysis of the UK traffic accidents dataset, revealing patterns and providing insights into the accidents that occur on UK roads. 
 
-## Dataset Details - KAGGLE 
+## Dataset Details
 
-The data comes from the Open Data website of the UK government, where they have been published by the Department of Transport. It covers a date range from 2005 to 2017.
+The data comes from the [Open Data website of the UK government](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data), where they have been published by the Department of Transport. The dataset covers a date range from 2005 to 2017.
+
+This dataset is available on [Kaggle](https://www.kaggle.com/datasets/tsiaras/uk-road-safety-accidents-and-vehicles?select=Vehicle_Information.csv).
 
 The dataset used in this project (Accident_Information.csv) represents unique traffic accidents across the UK, with various properties related to each accident as columns, such as geographical locations, weather conditions, type of vehicles, number of casualties, and vehicle manoeuvres.
+
 
 ## Exploratory Data Analysis
 
