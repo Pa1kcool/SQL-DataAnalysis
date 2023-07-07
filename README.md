@@ -13,10 +13,10 @@ The dataset used in this project (Accident_Information.csv) represents unique tr
 The primary dataset used in this project, `Accident_Information.csv`, represents unique traffic accidents across the UK. Each row in the file is a unique traffic accident, identified by the `Accident_Index` column, and various properties related to the accident are represented as columns. The dataset includes 34 columns that provide details about the accident including:
 
 - Accident_Index
-- 1st_Road_Class
-- 1st_Road_Number
-- 2nd_Road_Class
-- 2nd_Road_Number
+- first_Road_Class
+- first_Road_Number
+- second_Road_Class
+- second_Road_Number
 - Accident_Severity
 - Carriageway_Hazards
 - Date
@@ -53,7 +53,7 @@ Conducted a thorough exploratory data analysis on the data. The SQL queries used
 
 ## Questions Explored
 
-Here are some of the questions that i have addressed in my analysis:
+Here are some of the questions that I have addressed in my analysis:
 
 1. What is the distribution of accidents by severity?
 2. Which day of the week has the most accidents?
